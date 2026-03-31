@@ -1,11 +1,11 @@
 {
-  "token": "YOUR_BOT_TOKEN",
-  "clientId": "YOUR_APPLICATION_ID",
-  "guildId": "YOUR_TEST_GUILD_ID",
-  "ticketCategoryId": "OPTIONAL_CATEGORY_ID",
-  "logChannelId": "OPTIONAL_LOG_CHANNEL_ID",
+  "token": "MTQ3OTcwMTg4OTIwNDYyMTQyOA.GZUvXY.dr3M_whXNwp1Yv1ZhIGWDGLvpwTlVETWnAnBs8",
+  "clientId": "1479701889204621428",
+  "guildId": "1485807134959599716",
+  "ticketCategoryId": "1488637484580605964",
+  "logChannelId": "1486937627750830151",
   "supportRoleIds": [
-    "ROLE_ID_1",
-    "ROLE_ID_2"
+    "1485811492015046676",
+    "1486937601184235710"
   ]
 }
